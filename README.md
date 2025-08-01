@@ -1,4 +1,4 @@
-<h1>Network Policies in Kubernetes for Pod Isolation</h1>
+<h1>Kubernetes Health Probes for App Reliability</h1>
 
 
 <h2>Description</h2>
