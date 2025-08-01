@@ -21,7 +21,7 @@ Create Pod with Liveness and Readiness Probes <br />
 <img src="https://i.postimg.cc/0QRX6MCZ/2.jpg"/>
 <br />
 <br />
-Simulated probe failures to observe automatic restarts. <br/>
+Simulated probe failures to observe automatic restarts <br/>
 <img src="https://i.postimg.cc/DzqHPP0R/3.jpg" />
 <br />
 <br />
